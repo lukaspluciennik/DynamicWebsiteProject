@@ -35,8 +35,6 @@ Projekt przeznaczony jest dla warsztatu samochodowego zajmującego się podstawo
 
 ### Images
 
-[Image Pricing 1](https://www.flickr.com/photos/130855607@N05/16086503254/sizes/o/)
-
 Other images from [Pixabay](https://pixabay.com/)
 
 

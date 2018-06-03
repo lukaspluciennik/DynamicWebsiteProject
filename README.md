@@ -1,0 +1,2 @@
+# DynamicWebsiteProject
+Projekt komercyjny wdrożenia serwera SMS dla bramki GoIP – zapoznanie się z wymaganiami klienta, zainstalowanie systemu Ubuntu Server i skonfigurowanie go z pomocą przełożonego. Zainstalowanie na serwerze klienta obsługującego połączenia głosowe, przesyłanie wiadomości SMS i dostosowanie aplikacji do potrzeb klienta. Testowanie działania aplikacji. Stworzenie dokumentacji i uwzględnienie poprawek zgłoszonych przez zleceniodawcę.  Technologie wykorzystywane przy projekcie: Linux Ubuntu, Voip.
